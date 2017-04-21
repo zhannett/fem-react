@@ -4,7 +4,8 @@
     "react-dom": "^15.5.4"
   },
   "scripts": {
-    "lint": "standard"
+    "lint": "standard",
+    "build": "webpack"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
